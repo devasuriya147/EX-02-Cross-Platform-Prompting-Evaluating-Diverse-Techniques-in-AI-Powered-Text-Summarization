@@ -117,6 +117,8 @@ Cohere Command: Machine learning is when computers find patterns in data to make
 
 Meta: Machine learning is a process where computers analyze data, find patterns, and use that to make predictions or decisions.
 
+## Summary of Responses:
+
 <img width="699" height="783" alt="zm" src="https://github.com/user-attachments/assets/ffe6a24e-d2f6-41e3-92d1-52b8de6f0252" />
 
 
