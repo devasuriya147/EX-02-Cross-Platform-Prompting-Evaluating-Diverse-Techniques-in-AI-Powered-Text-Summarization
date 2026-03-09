@@ -39,7 +39,10 @@ Meta: The capital of France is Paris.
 ## 2.Tabular Format Prompting
 Prompt: "Create a table comparing the features of AI models."
 <img width="698" height="199" alt="tab" src="https://github.com/user-attachments/assets/afe87796-c617-4a6f-9f9d-102b96806964" />
-.Missing Word Prompting
+
+
+## 3.Missing Word Prompting
+
 Prompt: "The capital of Italy is ___."
 
 ChatGPT: The capital of Italy is Rome.
